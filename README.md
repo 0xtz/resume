@@ -55,8 +55,10 @@ Implemented fron-tend solutions using HTML, CSS, and SCSS.
 
 # Education:
 
-- Specialized Institute of Applied Technology NTIC
-    Diplôme de Technicien Spécialisé en Développement Full Stack
+## **Specialized Institute of Applied Technology NTIC**
 
-- Lycée Les Orangers 
-    Baccalauréat en Sciences et Technologies - Électricité
+- Diplôme de Technicien Spécialisé en Développement Full Stack
+
+## Lycée Les Orangers 
+
+- Baccalauréat en Sciences et Technologies - Électricité
